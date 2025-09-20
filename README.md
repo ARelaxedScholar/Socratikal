@@ -33,7 +33,7 @@ This project is built with Python and requires a `.env` file with your Gemini AP
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url]
+    git clone https://github.com/ARelaxedScholar/Socratikal/
     cd socratikal
     ```
 
